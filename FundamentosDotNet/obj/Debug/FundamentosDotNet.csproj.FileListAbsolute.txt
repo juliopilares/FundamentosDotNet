@@ -1,1 +1,6 @@
 C:\Users\Júlio\Google Drive\Projetos\FundamentosDotNet\FundamentosDotNet\bin\Debug\FundamentosDotNet.exe.config
+C:\Users\Júlio\Google Drive\Projetos\FundamentosDotNet\FundamentosDotNet\bin\Debug\FundamentosDotNet.exe
+C:\Users\Júlio\Google Drive\Projetos\FundamentosDotNet\FundamentosDotNet\bin\Debug\FundamentosDotNet.pdb
+C:\Users\Júlio\Google Drive\Projetos\FundamentosDotNet\FundamentosDotNet\obj\Debug\FundamentosDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Júlio\Google Drive\Projetos\FundamentosDotNet\FundamentosDotNet\obj\Debug\FundamentosDotNet.exe
+C:\Users\Júlio\Google Drive\Projetos\FundamentosDotNet\FundamentosDotNet\obj\Debug\FundamentosDotNet.pdb

@@ -10,6 +10,10 @@ namespace FundamentosDotNet
     {
         static void Main(string[] args)
         {
+            //Console.Write("Hello World");
+            Pessoa p = new Pessoa("Júlio Pilares");
+            p.DigaOi();
+            Console.ReadKey();
         }
     }
 }
